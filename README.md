@@ -22,3 +22,5 @@
 | Redirection                                 | ...      | 2:30 - 2:45 pm        |
 | Writing with scripts and working with data  | 45 mins  | 2:45 - 3:30 pm        |
 | Project organisation                        | ~5 mins  | 3:30 - 3:35 pm        |
+
+https://genomicsaotearoa.github.io/introduction-to-shell/
