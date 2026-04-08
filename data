@@ -10,3 +10,7 @@ unzip shell_data.zip
 #3-Go into the data folder:
 #Bash
 cd shell_data
+
+
+##bash scripting commands
+https://devhints.io/bash
